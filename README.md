@@ -1,8 +1,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amjadali168)](https://github.com/Amjadali168/github-readme-stats)
 
 
-
-- [![Amjadali168's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjadali168)](https://github.com/Amjadali168/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amjadali168&hide_progress=true)](https://github.com/Amjadali168/github-readme-stats)
+<!-- - [![Amjadali168's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjadali168)](https://github.com/Amjadali168/github-readme-stats) -->
 
 <!---
 Amjadali168/Amjadali168 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
