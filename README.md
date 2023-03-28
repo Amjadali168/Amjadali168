@@ -2,6 +2,7 @@
 - 👀 I’m interested in Python and Web development
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me www.linkedin.com/in/amjad-ali-41693a225
+- [![Amjadali168's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjadali168)](https://github.com/Amjadali168/github-readme-stats)
 
 <!---
 Amjadali168/Amjadali168 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
