@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amjadali168
+- 👋 Hi, I’m Amjad Ali
 - 👀 I’m interested in Python and Web development
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me www.linkedin.com/in/amjad-ali-41693a225
