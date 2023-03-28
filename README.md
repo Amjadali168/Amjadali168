@@ -1,5 +1,3 @@
-https://github.com/Amjadali168/Amjadali168/blob/6f23eed57cbbeb38e5e513ba6148e49f234e37ca/Picsart_23-03-28_23-03-42-787.jpg
-<!-- https://github.com/Amjadali168/Amjadali168/blob/main/Picsart_23-03-28_23-03-42-787.jpg -->
 Hi there 
 
 I'm Amjad Ali from Lucknow currently pursuing B.tech from Khwaja moinuddin Chishti language University Lucknow, UP. 
