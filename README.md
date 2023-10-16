@@ -1,7 +1,7 @@
 Hi there 
 
 I'm Amjad Ali from Lucknow currently pursuing B.tech from Khwaja moinuddin Chishti language University Lucknow, UP. 
-I really enjoy learning languages like Python and i have learned python at Intermediate level.I have the knowledge of front ent development and my some project link is https://myportfolio-fox-d69897.netlify.app
+I really enjoy learning languages like Python and i have learned python at Intermediate level.I have the knowledge of front ent development and my some project link is https://github.com/Amjadali168/Amjad-portfolio.git
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100018094485299) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/amjadali1682002?igshid=ZDdkNTZiNTM=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/amjad-ali-41693a225) 
